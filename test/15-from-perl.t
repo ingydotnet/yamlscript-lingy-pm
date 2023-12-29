@@ -1,6 +1,6 @@
 use Test::More;
 
-use YAMLScript;
+use YAMLScript::Lingy;
 
 my $ys = YAMLScript->new;
 

@@ -4,7 +4,7 @@ package YAMLScript::RT;
 use Lingy::RT;
 use base 'Lingy::RT';
 
-use YAMLScript;
+use YAMLScript::Lingy;
 use YAMLScript::Common;
 use YAMLScript::Core;
 use YAMLScript::Reader;

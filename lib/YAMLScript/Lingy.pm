@@ -1,4 +1,9 @@
-package YAMLScript;
+use strict; use warnings;
+package YAMLScript::Lingy;
+
+package
+YAMLScript;
+
 our $VERSION = '0.1.12';
 
 use Lingy;
